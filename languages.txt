@@ -1,0 +1,78 @@
+List of language available in tts:
+
+1. Afrikaans
+2. Albanian
+3. Arabic
+4. Armenian
+5. Bengali
+6. Bosnian
+7. Catalan
+8. Croatian
+9. Czech
+10. Danish
+11. Dutch
+12. English
+13. Esperanto
+14. Estonian
+15. Filipino
+16. Finnish
+17. French Normal
+18. German
+19. Greek
+20. Gujarati
+21. Hindi
+22. Hungarian
+23. Icelandic
+24. Indonesian
+25. Italian
+26. Japanese
+27. Javanese
+28. Kannada
+29. Khmer
+30. Korean
+31. Latin
+32. Latvian
+33. Macedonian
+34. Malayalam
+35. Marathi
+36. Myanmar
+37. Nepali
+38. Norwegian
+39. Polish
+40. Portuguese
+41. Romanian
+42. Russian
+43. Serbian
+44. Sinhala
+45. Slovak
+46. Spanish
+47. Sundanese
+48. Swahili
+49. Swedish
+50. Tamil
+51. Telugu
+52. Thai
+53. Turkish
+54. Ukrainian
+55. Urdu
+56. Vietnamese
+57. Welsh
+58. Mandarin
+59. Chinese (Mandarin/Taiwan)
+60. English (US)
+61. English (Canada)
+62. English (UK)
+63. English (Australia)
+64. English (Ghana)
+65. English (India)
+66. English (Ireland)
+67. English (New Zealand)
+68. English (Nigeria)
+69. English (Philippines)
+70. English (South Africa)
+71. English (Tanzania)
+72. French (Canada)
+73. French
+74. Portuguese (Brazil)
+75. Portuguese (Portugal)
+76. Spanish (United States)
